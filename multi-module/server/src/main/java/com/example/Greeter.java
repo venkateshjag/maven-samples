@@ -12,7 +12,7 @@ package com.example;
   }
 
   //TODO: Add javadoc comment
-  public String greet(String someone) {
+  publicring someone) {
     return String.format("Hello, %s!", someone);
   }
 }
